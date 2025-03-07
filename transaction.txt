@@ -1,0 +1,38 @@
+Transaction ID :TID483
+Item Code :GL
+Supplier Code :SUP003
+Action :Receive
+Quantity :50
+Date & Time:2024-10-14
+-----------------------------
+Transaction ID :TID131
+Item Code :Gloves
+Supplier Code :SUP003
+Action :Distribute
+Hospital Code :University Hospital
+Quantity :50
+Date & Time:2024-10-14
+-----------------------------
+Transaction ID :TID971
+Item Code :Head Cover
+Supplier Code :SUP001
+Action :Distribute
+Hospital Code :Specialist Medical Center
+Quantity :90
+Date & Time:2024-10-14
+-----------------------------
+Transaction ID :TID937
+Item Code :Face Shield
+Supplier Code :SUP003
+Action :Distribute
+Hospital Code :Specialist Medical Center
+Quantity :40
+Date & Time:2024-10-14
+-----------------------------
+Transaction ID :TID104
+Item Code :HC
+Supplier Code :SUP001
+Action :Receive
+Quantity :90
+Date & Time:2024-10-14
+-----------------------------

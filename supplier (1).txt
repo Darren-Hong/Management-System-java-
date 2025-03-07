@@ -1,0 +1,16 @@
+Supplier ID: SUP001
+Supplier Name: Ache Corporation
+Contact details: 123
+-------------------------------
+Supplier ID: SUP002
+Supplier Name: Beta Suppliers
+Contact details: 990
+-------------------------------
+Supplier ID: SUP003
+Supplier Name: Gamma Enterprises
+Contact details: 001
+-------------------------------
+Supplier ID: SUP004
+Supplier Name: MCU
+Contact details: 911
+-------------------------------

@@ -1,0 +1,20 @@
+Hospital code: H001
+Hospital name: Specialist Medical Center
+Contact Details: 432
+State: Selangor
+-----------------
+Hospital code: H002
+Hospital name: University Hospital
+Contact Details: 893
+State: Selangor
+-----------------
+Hospital code: H003
+Hospital name: Children's Hospital
+Contact Details: 432
+State: Selangor
+-----------------
+Hospital code: H004
+Hospital name: Heart Institute
+Contact Details: 229
+State: Territory
+-----------------

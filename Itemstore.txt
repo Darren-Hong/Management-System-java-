@@ -1,0 +1,24 @@
+Item Code: HC 
+Quantity: 100
+Date: 2024-10-14
+-----------------------
+Item Code: FS
+Quantity: 60
+Date: 2024-10-14
+-----------------------
+Item Code: MS
+Quantity: 100
+Date: 2024-10-13
+-----------------------
+Item Code: GL
+Quantity: 100
+Date: 2024-10-14
+-----------------------
+Item Code: GW 
+Quantity: 100
+Date: 2024-10-13
+-----------------------
+Item Code: SC 
+Quantity: 100
+Date: 2024-10-08
+-----------------------

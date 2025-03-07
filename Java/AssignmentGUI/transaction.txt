@@ -1,0 +1,39 @@
+Transaction ID :TID476
+Item Code :FS
+Supplier Code :SUP003
+Action :Receive
+Quantity :10
+Date & Time:2024-10-12
+-----------------------------
+
+Transaction ID :TID654
+Item Code :Head Cover
+Supplier Code :SUP001
+Action :Distribute
+Hospital Code :Children's Hospital
+Quantity :80
+Date & Time:2024-10-13
+-----------------------------
+Transaction ID :TID679
+Item Code :Gloves
+Supplier Code :SUP003
+Action :Distribute
+Hospital Code :Heart Institute
+Quantity :50
+Date & Time:2024-10-13
+-----------------------------
+Transaction ID :TID717
+Item Code :GW
+Supplier Code :SUP002
+Action :Receive
+Quantity :90
+Date & Time:2024-10-13
+-----------------------------
+Transaction ID :TID52
+Item Code :Gown
+Supplier Code :SUP002
+Action :Distribute
+Hospital Code :Heart Institute
+Quantity :90
+Date & Time:2024-10-13
+-----------------------------
